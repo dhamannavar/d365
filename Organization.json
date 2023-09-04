@@ -1,162 +1,362 @@
 [
   {
-    "tradingName": "Songlines",
-    "persistedId": "Organization_689991638149439400",
-    "name": "c_Gazak",
-    "organizationType": 121820001,
-    "status": 121820001,
-    "etag": "64f1e32cc7a3c034d62c74eb"
+    "dj_name": "Zensus",
+    "dj_organizationid": "Organization_214348404835368350",
+    "dj_organizationname": "c_Plasmosis",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd36613261bc2878e5f5"
   },
   {
-    "tradingName": "Tsunamia",
-    "persistedId": "Organization_997289428700663800",
-    "name": "c_Musanpoly",
-    "organizationType": 121820000,
-    "status": 121820004,
-    "etag": "64f1e32c84cbc627267a9123"
+    "dj_name": "Quadeebo",
+    "dj_organizationid": "Organization_388737439989005700",
+    "dj_organizationname": "c_Bluegrain",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820000,
+    "dj_etag": "64f5cd36a09b573fb0d3609f"
   },
   {
-    "tradingName": "Paprikut",
-    "persistedId": "Organization_870393167327230800",
-    "name": "c_Hairport",
-    "organizationType": 121820001,
-    "status": 121820000,
-    "etag": "64f1e32cf05f1c197a2ed80c"
+    "dj_name": "Quailcom",
+    "dj_organizationid": "Organization_391183098667101440",
+    "dj_organizationname": "c_Zoarere",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd3689c0f58166aa0f29"
   },
   {
-    "tradingName": "Confrenzy",
-    "persistedId": "Organization_652325987228426100",
-    "name": "c_Maximind",
-    "organizationType": 121820000,
-    "status": 121820004,
-    "etag": "64f1e32ca161e5af83612e04"
+    "dj_name": "Pyrami",
+    "dj_organizationid": "Organization_358014237166470900",
+    "dj_organizationname": "c_Tropoli",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820000,
+    "dj_etag": "64f5cd369de6605e0a2bbdb3"
   },
   {
-    "tradingName": "Ginkle",
-    "persistedId": "Organization_962817679639392000",
-    "name": "c_Accuprint",
-    "organizationType": 121820001,
-    "status": 121820001,
-    "etag": "64f1e32c0c8e178791b864b1"
+    "dj_name": "Cuizine",
+    "dj_organizationid": "Organization_474833977493308860",
+    "dj_organizationname": "c_Nikuda",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820001,
+    "dj_etag": "64f5cd36dc58d5a054660423"
   },
   {
-    "tradingName": "Xinware",
-    "persistedId": "Organization_723106131370419300",
-    "name": "c_Verton",
-    "organizationType": 121820000,
-    "status": 121820003,
-    "etag": "64f1e32c7998c3168c9f9fc7"
+    "dj_name": "Proxsoft",
+    "dj_organizationid": "Organization_488146596127076740",
+    "dj_organizationname": "c_Kraggle",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820002,
+    "dj_etag": "64f5cd360f7436d88485dc91"
   },
   {
-    "tradingName": "Fleetmix",
-    "persistedId": "Organization_186918341909313540",
-    "name": "c_Handshake",
-    "organizationType": 121820001,
-    "status": 121820000,
-    "etag": "64f1e32ca787f74e0664455f"
+    "dj_name": "Zilch",
+    "dj_organizationid": "Organization_133049274009364670",
+    "dj_organizationname": "c_Genesynk",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd36c740bb8f521870d5"
   },
   {
-    "tradingName": "Portalis",
-    "persistedId": "Organization_110055349952870200",
-    "name": "c_Joviold",
-    "organizationType": 121820000,
-    "status": 121820002,
-    "etag": "64f1e32cc4edfcabdafbb39f"
+    "dj_name": "Datacator",
+    "dj_organizationid": "Organization_716255453035922800",
+    "dj_organizationname": "c_Geeky",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820000,
+    "dj_etag": "64f5cd361152057b3b79dea0"
   },
   {
-    "tradingName": "Xelegyl",
-    "persistedId": "Organization_273755682703237760",
-    "name": "c_Jetsilk",
-    "organizationType": 121820000,
-    "status": 121820001,
-    "etag": "64f1e32ce6f22db6142375ab"
+    "dj_name": "Geekmosis",
+    "dj_organizationid": "Organization_862158983503668600",
+    "dj_organizationname": "c_Polaria",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd36c46c84e3adbed517"
   },
   {
-    "tradingName": "Olucore",
-    "persistedId": "Organization_827094811865400700",
-    "name": "c_Syntac",
-    "organizationType": 121820001,
-    "status": 121820004,
-    "etag": "64f1e32c21599fae93410445"
+    "dj_name": "Isonus",
+    "dj_organizationid": "Organization_878220276937181600",
+    "dj_organizationname": "c_Automon",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820001,
+    "dj_etag": "64f5cd36883a362e81997d48"
   },
   {
-    "tradingName": "Valpreal",
-    "persistedId": "Organization_477990570125304640",
-    "name": "c_Endipine",
-    "organizationType": 121820001,
-    "status": 121820002,
-    "etag": "64f1e32cbe0c9ce671e62b55"
+    "dj_name": "Sequitur",
+    "dj_organizationid": "Organization_511757888670885100",
+    "dj_organizationname": "c_Wazzu",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820002,
+    "dj_etag": "64f5cd36d5b1429039d9f3a7"
   },
   {
-    "tradingName": "Geeketron",
-    "persistedId": "Organization_792382941430942000",
-    "name": "c_Tourmania",
-    "organizationType": 121820000,
-    "status": 121820001,
-    "etag": "64f1e32c31885ae00b12a95b"
+    "dj_name": "Xsports",
+    "dj_organizationid": "Organization_349740438566497540",
+    "dj_organizationname": "c_Solaren",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd3639ed0ce3ca17efc8"
   },
   {
-    "tradingName": "Zentix",
-    "persistedId": "Organization_196390756261179260",
-    "name": "c_Visalia",
-    "organizationType": 121820000,
-    "status": 121820003,
-    "etag": "64f1e32cbb3149441164850a"
+    "dj_name": "Ecratic",
+    "dj_organizationid": "Organization_346821810917406340",
+    "dj_organizationname": "c_Megall",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820000,
+    "dj_etag": "64f5cd36c2f2cbe945f5840c"
   },
   {
-    "tradingName": "Velity",
-    "persistedId": "Organization_448892822448301950",
-    "name": "c_Accruex",
-    "organizationType": 121820001,
-    "status": 121820003,
-    "etag": "64f1e32c8720b0e952c6080f"
+    "dj_name": "Pearlessa",
+    "dj_organizationid": "Organization_132991041682747550",
+    "dj_organizationname": "c_Unq",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820001,
+    "dj_etag": "64f5cd36e0167f2ff12e0558"
   },
   {
-    "tradingName": "Netur",
-    "persistedId": "Organization_112830611889400460",
-    "name": "c_Magneato",
-    "organizationType": 121820000,
-    "status": 121820002,
-    "etag": "64f1e32ca9d7b1af0c7b48e7"
+    "dj_name": "Cujo",
+    "dj_organizationid": "Organization_364375965919907460",
+    "dj_organizationname": "c_Bezal",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820000,
+    "dj_etag": "64f5cd36fdfaae72cc842550"
   },
   {
-    "tradingName": "Stralum",
-    "persistedId": "Organization_269606983499537020",
-    "name": "c_Imaginart",
-    "organizationType": 121820001,
-    "status": 121820004,
-    "etag": "64f1e32c87fb1414d001a08e"
+    "dj_name": "Canopoly",
+    "dj_organizationid": "Organization_754346226674472600",
+    "dj_organizationname": "c_Nexgene",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd36e9d2c6fa0357abd8"
   },
   {
-    "tradingName": "Xoggle",
-    "persistedId": "Organization_838659950973933600",
-    "name": "c_Netplax",
-    "organizationType": 121820000,
-    "status": 121820002,
-    "etag": "64f1e32c5f77113b20c8c150"
+    "dj_name": "Venoflex",
+    "dj_organizationid": "Organization_204621955598405340",
+    "dj_organizationname": "c_Digial",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd36eb34e8b0267f368d"
   },
   {
-    "tradingName": "Yogasm",
-    "persistedId": "Organization_678188667431566800",
-    "name": "c_Tubesys",
-    "organizationType": 121820000,
-    "status": 121820004,
-    "etag": "64f1e32ce7c56be176fb79b3"
+    "dj_name": "Signity",
+    "dj_organizationid": "Organization_134845683728162750",
+    "dj_organizationname": "c_Enervate",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820001,
+    "dj_etag": "64f5cd36f11bcb41407e30b3"
   },
   {
-    "tradingName": "Temorak",
-    "persistedId": "Organization_475578235892994370",
-    "name": "c_Enersave",
-    "organizationType": 121820000,
-    "status": 121820003,
-    "etag": "64f1e32c96b1e89bb424ea61"
+    "dj_name": "Colaire",
+    "dj_organizationid": "Organization_962683767054930300",
+    "dj_organizationname": "c_Pawnagra",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd3696be821059f89029"
   },
   {
-    "tradingName": "Otherside",
-    "persistedId": "Organization_787351007211616900",
-    "name": "c_Eclipsent",
-    "organizationType": 121820000,
-    "status": 121820001,
-    "etag": "64f1e32c656160fae0dfd2b4"
+    "dj_name": "Tingles",
+    "dj_organizationid": "Organization_110588363425606030",
+    "dj_organizationname": "c_Centice",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820001,
+    "dj_etag": "64f5cd360539e2c86b2fa253"
+  },
+  {
+    "dj_name": "Rugstars",
+    "dj_organizationid": "Organization_387903296314640000",
+    "dj_organizationname": "c_Evidends",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd361d1e7533922c6fb0"
+  },
+  {
+    "dj_name": "Corpulse",
+    "dj_organizationid": "Organization_511990930462524000",
+    "dj_organizationname": "c_Yurture",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820000,
+    "dj_etag": "64f5cd36a7e4d86887542bfa"
+  },
+  {
+    "dj_name": "Xurban",
+    "dj_organizationid": "Organization_899538903203278300",
+    "dj_organizationname": "c_Biohab",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820001,
+    "dj_etag": "64f5cd36f8d73875bd2d2b22"
+  },
+  {
+    "dj_name": "Centregy",
+    "dj_organizationid": "Organization_593937431420368900",
+    "dj_organizationname": "c_Plasmos",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd365ba247a483229700"
+  },
+  {
+    "dj_name": "Zaj",
+    "dj_organizationid": "Organization_485774761425644000",
+    "dj_organizationname": "c_Ontagene",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd366f50c5ae2a138dd6"
+  },
+  {
+    "dj_name": "Exodoc",
+    "dj_organizationid": "Organization_404654947941019500",
+    "dj_organizationname": "c_Tourmania",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd367034232364f9a460"
+  },
+  {
+    "dj_name": "Zaphire",
+    "dj_organizationid": "Organization_347278656175942660",
+    "dj_organizationname": "c_Isoswitch",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820000,
+    "dj_etag": "64f5cd368a0618cc2e6a8ef9"
+  },
+  {
+    "dj_name": "Cogentry",
+    "dj_organizationid": "Organization_979165631321731800",
+    "dj_organizationname": "c_Ovation",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd3625c009c1fffae7cd"
+  },
+  {
+    "dj_name": "Accufarm",
+    "dj_organizationid": "Organization_733965707297481000",
+    "dj_organizationname": "c_Bizmatic",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd36bbc16b17e7fe8c54"
+  },
+  {
+    "dj_name": "Xoggle",
+    "dj_organizationid": "Organization_400207883273036400",
+    "dj_organizationname": "c_Genmex",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820002,
+    "dj_etag": "64f5cd363b61600c5e90add5"
+  },
+  {
+    "dj_name": "Rameon",
+    "dj_organizationid": "Organization_635405409953234200",
+    "dj_organizationname": "c_Geoforma",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd367445e93f5f2e15e0"
+  },
+  {
+    "dj_name": "Golistic",
+    "dj_organizationid": "Organization_374978633394634800",
+    "dj_organizationname": "c_Accruex",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd36ae9d034d3907a850"
+  },
+  {
+    "dj_name": "Ziore",
+    "dj_organizationid": "Organization_928502473151140500",
+    "dj_organizationname": "c_Optique",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820000,
+    "dj_etag": "64f5cd3604bfd6685edd34bb"
+  },
+  {
+    "dj_name": "Prowaste",
+    "dj_organizationid": "Organization_174272311577187800",
+    "dj_organizationname": "c_Optyk",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820001,
+    "dj_etag": "64f5cd3659beb4f62231406d"
+  },
+  {
+    "dj_name": "Aquafire",
+    "dj_organizationid": "Organization_155559030398226020",
+    "dj_organizationname": "c_Daido",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820002,
+    "dj_etag": "64f5cd36da43aa913645a1f2"
+  },
+  {
+    "dj_name": "Zillar",
+    "dj_organizationid": "Organization_397465281428999230",
+    "dj_organizationname": "c_Roughies",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820002,
+    "dj_etag": "64f5cd36770ef9897e2b0237"
+  },
+  {
+    "dj_name": "Vendblend",
+    "dj_organizationid": "Organization_406219980337780300",
+    "dj_organizationname": "c_Marketoid",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd36f1fda9e5841e750b"
+  },
+  {
+    "dj_name": "Oceanica",
+    "dj_organizationid": "Organization_297090276210797800",
+    "dj_organizationname": "c_Incubus",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd366d0e32950cfa9a2f"
+  },
+  {
+    "dj_name": "Codact",
+    "dj_organizationid": "Organization_662602620028381400",
+    "dj_organizationname": "c_Spherix",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd36df0707271cf399a6"
+  },
+  {
+    "dj_name": "Xelegyl",
+    "dj_organizationid": "Organization_946031830633436800",
+    "dj_organizationname": "c_Vertide",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd363d28d61ac6336e97"
+  },
+  {
+    "dj_name": "Pholio",
+    "dj_organizationid": "Organization_969702208460024400",
+    "dj_organizationname": "c_Isologics",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820002,
+    "dj_etag": "64f5cd3631310ad75b84792d"
+  },
+  {
+    "dj_name": "Kiosk",
+    "dj_organizationid": "Organization_202639650456726430",
+    "dj_organizationname": "c_Rubadub",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd366e7c4d4b516dbc94"
+  },
+  {
+    "dj_name": "Veraq",
+    "dj_organizationid": "Organization_360593514142268740",
+    "dj_organizationname": "c_Dognost",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820003,
+    "dj_etag": "64f5cd36edddb4b8c9472d51"
+  },
+  {
+    "dj_name": "Steeltab",
+    "dj_organizationid": "Organization_905940256230234100",
+    "dj_organizationname": "c_Ultrimax",
+    "dj_organizationtype": 121820001,
+    "dj_status": 121820004,
+    "dj_etag": "64f5cd369048621bf85fceb5"
+  },
+  {
+    "dj_name": "Biolive",
+    "dj_organizationid": "Organization_910516359416465300",
+    "dj_organizationname": "c_Geeknet",
+    "dj_organizationtype": 121820000,
+    "dj_status": 121820001,
+    "dj_etag": "64f5cd36f2ba8674a91e4090"
   }
 ]
