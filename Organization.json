@@ -3,7 +3,10 @@
     "dj_name": "Xsports",
     "dj_organizationid": "Organization_381489389220810940",
     "dj_organizationname": "c_Furnafix",
-    "dj_organizationtype": 121820000,
+    "dj_organizationtype": {
+      "columnType": "optionSet",
+      "value": "121820000"
+    } ,
     "dj_status": 121820004,
     "dj_etag": "64f5db59cea7d2d8e106bb87"
   },
