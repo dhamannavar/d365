@@ -6,7 +6,7 @@
     "dj_organizationtype": 121820000,
     "dj_status": 121820004,
     "dj_etag": "64f5db59cea7d2d8e106bb87",
-    "dj_relatedparty": {
+    "dj_account": {
        "lookupId":121820000,
        "lookupType": "dj_account"
     }
