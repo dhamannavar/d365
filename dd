@@ -1,0 +1,57 @@
+---
+swagger: "2.0"
+info:
+  description: "d"
+  version: "4.0.1beta"
+  title: "Notification Specification - aa aa aa aa aa"
+  contact:
+    name: "aa Inc."
+    url: "http://www.aa.com"
+    email: "support@aa.com"
+  license:
+    name: "aa Inc."
+    url: "http://www.aaa.com"
+host: "d.com"
+basePath: "/ddddd/v4"
+schemes:
+  - "https"
+paths:
+  /someEvent:
+    get:
+      tags:
+        - "SS SS Update"
+      summary: "Notifying about nd"
+      description: "aaa"
+      operationId: "someEvent"
+      parameters: []
+      responses:
+        "204":
+          description: "*No Content*\n"
+          schema:
+            $ref: "#/definitions/someEvent"
+
+definitions:
+    prop1Type:
+      additionalProperties: false
+      properties:
+        id:
+          allOf:
+            - $ref: '#/definitions/integer10Type'
+          description: |-
+            a
+      type: object
+    someEvent:
+      additionalProperties: false
+      properties:
+        adresseAlt:
+          allOf:
+            - $ref: '#/definitions/prop1Type'
+          description: Old spelling of.
+      type: object
+    integer10Type:
+      format: int64
+      maximum: 9999999999
+      type: integer
+x-dox-DesignDocs:
+  - description: "aaaaa\
+    \ \n"
